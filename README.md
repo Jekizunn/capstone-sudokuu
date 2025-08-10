@@ -1,4 +1,4 @@
-# capstone-sudokuu
+# Capstone-Sudokuu
 Pembuatan game web php native sudoku dengan bantuan granite AI 3.2
 
 Sebuah game Sudoku klasik interaktif yang dibuat untuk projek capstone program Hakctiv8 + IBM Student Developer initiative Wave 6. dengan fitur Timer, Reset, Hint, dan validasi secara realtime untuk pengalaman bermain yang mudah dan menyenangkan
@@ -20,7 +20,7 @@ Sebuah game Sudoku klasik interaktif yang dibuat untuk projek capstone program H
 - **Validasi Real-Time** : Angka yang dimasukkan pemain dapat diketahui benar tidaknya secara langsung
 - **Pesan Kemenangan** : Notifikasi akan muncul saat semua kotak berhasil diisi dengan benar
 
-  # Setup
+# Setup
 
 1.  Clone repository ini ke komputer Anda.
 2.  Pastikan Anda memiliki PHP terinstal.
