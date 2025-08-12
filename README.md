@@ -34,3 +34,7 @@ Sebuah game Sudoku klasik interaktif yang dibuat untuk projek capstone program H
 - **Generasi Kode Awal** : AI membantu membuat versi pertama dari file `index.php`, `style.css`, dan `script.js`. Ini memberikan fondasi yang solid untuk dikembangkan lebih lanjut.
 - **Debugging & Refactoring** : Saat kode awal dari AI memiliki *bug* (seperti logika generator Sudoku yang salah), saya meminta AI untuk memberikan alternatif atau memperbaiki bagian tertentu. Proses ini membantu saya memahami kesalahan logika dan cara memperbaikinya.
 - **Dampak** : Penggunaan AI mempercepat fase setup dan pembuatan kerangka awal proyek sekitar 50%, sehingga saya bisa lebih fokus pada debugging, perbaikan logika, dan penyempurnaan user interface.
+
+### Catatan Proses Pengembangan
+
+Proyek ini pada awalnya direncanakan menggunakan PHP untuk logika pembuatan puzzle di sisi server. Namun, untuk menyesuaikan dengan platform deployment yang disarankan (Netlify) yang lebih optimal untuk situs statis, proyek ini kemudian di-refactor sepenuhnya menjadi aplikasi statis yang hanya menggunakan HTML, CSS, dan JavaScript.
